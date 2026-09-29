@@ -1,7 +1,5 @@
 # Anthropic: funding, run-rate and disclosure questions
 
-DRAFT — HUMAN REVIEW REQUIRED
-
 SoSoValue / SoDEX Research
 
 The research raises questions about enterprise AI economics, financing and compute dependence. This digest separates financing terms from operating performance and treats revenue definitions as a central diligence question.
@@ -18,7 +16,7 @@ Source: [Anthropic Series H announcement](https://www.anthropic.com/news/series-
 
 The financing includes previously committed investments. Company-reported run-rate is not recognized annual revenue or an audited result.
 
-## Questions for discussion
+## Key Research Considerations
 
 - Keep financing valuation separate from operating results.
 - Seek a reconciliation between run-rate and recognized revenue.
