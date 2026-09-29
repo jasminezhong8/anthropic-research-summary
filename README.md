@@ -1,31 +1,28 @@
-# Anthropic: funding, run-rate and disclosure questions
+# Anthropic: Funding, Run-Rate and Disclosures
+**SoSoValue / SoDEX Research**
 
-SoSoValue / SoDEX Research
+This repository contains a short digest and selected data tracking the financing terms and operating performance of Anthropic. The full report remains available on **[SoDEX](https://sodex.com)**.
 
-The research raises questions about enterprise AI economics, financing and compute dependence. This digest separates financing terms from operating performance and treats revenue definitions as a central diligence question.
-
-## Selected verified disclosures
+## Selected Verified Disclosures
 
 | Metric | Value | Period | Basis |
-|---|---|---|---|
-| Series H funding | = 65 USD billion | 2026-05-28 | Company-announced financing; includes previously committed investments |
-| Series H post-money valuation | = 965 USD billion | 2026-05-28 | Company-announced priced round; not current market capitalization |
-| Revenue run-rate threshold | > 47 USD billion annualized | 2026-05 | Company-reported run-rate; not recognized annual revenue; unaudited disclosure |
+| :--- | :--- | :--- | :--- |
+| **Series H Funding** | \$65 Billion | 2026-05-28 | Company-announced financing; includes previously committed investments |
+| **Series H Post-Money Valuation** | \$965 Billion | 2026-05-28 | Company-announced priced round; not current market capitalization |
+| **Revenue Run-rate Threshold** | > \$47 Billion | 2026-05 | Company-reported run-rate; annualized snapshot; unaudited disclosure |
 
-Source: [Anthropic Series H announcement](https://www.anthropic.com/news/series-h). Checked on 2026-09-26.
+*Source: Anthropic Series H announcement. Data checked on 2026-09-26. The financing includes previously committed investments. Company-reported run-rate is an annualized snapshot of recent sales activity and does not represent recognized annual revenue or an audited financial result.*
 
-The financing includes previously committed investments. Company-reported run-rate is not recognized annual revenue or an audited result.
+## Research Framework
+Our analysis focuses on three central dimensions of Anthropic's business model:
+1. **Valuation Decoupling:** Keeping core financing round valuations strictly separate from realized trailing operating results.
+2. **Revenue Reconciliation:** Seeking a clear structural reconciliation between short-term annualized run-rate claims and recognized, audited revenue statements.
+3. **Operational Drag:** Examining underlying compute obligations, intense customer concentration, and corporate governance structures before drawing long-term valuation conclusions.
 
-## Key Research Considerations
+## Repository Structure
+*   `report.json`: Contains the structured analytical digest.
+*   `key_metrics.csv`: Contains the underlying selected data points.
+*   `sources.md`: Records data provenance and primary verification sources.
 
-- Keep financing valuation separate from operating results.
-- Seek a reconciliation between run-rate and recognized revenue.
-- Examine compute obligations, customer concentration and governance before drawing valuation conclusions.
-
-This repository contains a short digest and selected data. The full report remains on [SoDEX](https://sodex.com/rwa/anthropic).
-
-Original report by Rationalist Desk. This digest does not reproduce its investment recommendation.
-
-## Files
-
-`report.json` contains the structured digest; `key_metrics.csv` contains the selected data; `sources.md` records provenance.
+---
+*Original report prepared in collaboration with Rationalist Desk. This digest does not reproduce or constitute investment recommendations.*
