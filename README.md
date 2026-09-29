@@ -28,4 +28,4 @@ Original report by Rationalist Desk. This digest does not reproduce its investme
 
 ## Files
 
-`report.json` contains the structured digest; `key_metrics.csv` contains the selected data; `sources.md` records provenance. Social drafts and SEO metadata require editorial approval.
+`report.json` contains the structured digest; `key_metrics.csv` contains the selected data; `sources.md` records provenance.
